@@ -305,7 +305,7 @@ Maya:
 # # 🔒 Email Credentials (from secrets or fallback)
 # # ===============================
 # if "email" not in os.environ:
-#     os.environ["email"] = "ananthakrishnang793@gmail.com"
+#     os.environ["email"] = "maya793@gmail.com"
 # if "password" not in os.environ:
 #     os.environ["password"] = "pznu guyb gedz ewcx"
 
