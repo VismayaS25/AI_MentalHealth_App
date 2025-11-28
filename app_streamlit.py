@@ -313,7 +313,7 @@ Maya:
 # # 📧 Email Alert Function
 # # ===============================
 # def send_email_alert(contact_email, user_message, risk_label):
-#     sender = "ananthakrishnang793@gmail.com"
+#     sender = "maya793@gmail.com"
 #     password = "pznu guyb gedz ewcx"   # Gmail App Password
 
 #     subject = f"[ALERT] Critical Risk Detected ({risk_label})"
@@ -390,7 +390,7 @@ Maya:
 # Use Streamlit secrets for API key & sender
 def send_email_alert(contact_email, user_message, risk_label):
     BREVO_API_KEY = "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"
-    BREVO_SENDER_EMAIL = "ananthakrishnang793@gmail.com"
+    BREVO_SENDER_EMAIL = "maya793@gmail.com"
     BREVO_SENDER_NAME = "AI Mental Health Companion"
 
     BREVO_API_URL = "https://api.brevo.com/v3/smtp/email"
